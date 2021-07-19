@@ -27,7 +27,7 @@ This is a simple app that allows you to add, view, and remove notes.
 
 ## :book: Usage Info:
 
-To use this app..
+To use this app, navigate to https://lit-lowlands-54409.herokuapp.com/ . 
 
 
 ## :couple: Contributors:
