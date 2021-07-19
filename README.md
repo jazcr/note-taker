@@ -3,7 +3,8 @@
 
 [![License](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/licenses/MIT)
 
-![Screenshot of home page](https://github.com/jazcr/Team-Profile-Generator/blob/3f343f5bc18a663df2db3c229943035ad43bab3f/assets/SS.JPG)
+![Screenshot of home page](https://github.com/jazcr/note-taker/blob/8b9b9e5a7640abf266c4974d5ea4c6f2a036abc1/public/assets/images/homepg.JPG)
+![Screenshot of notes page](https://github.com/jazcr/note-taker/blob/8b9b9e5a7640abf266c4974d5ea4c6f2a036abc1/public/assets/images/notepage.JPG)
 
 <br>  
 <br> 
