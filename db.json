@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Test Title",
-    "text": "Test text"
+    "title": "Welcome!",
+    "text": "Welcome to the Note Taker App! Click on the + button to add a new note."
   }
 ]
